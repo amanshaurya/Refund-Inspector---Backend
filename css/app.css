@@ -265,7 +265,8 @@
                         .nav-tabs .nav-link {
                             color: #fff;
                             border: 1.5px solid #262626;
-                            border-radius: 10px 10px 0 0
+                            border-top-left-radius: 0.65rem !important;
+                            border-top-right-radius: 0.65rem !important;
                         }
                         
                         .form-control {
